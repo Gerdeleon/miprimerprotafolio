@@ -1,0 +1,47 @@
+h1{
+     text-align: center;
+    }
+h2{
+    text-align: center;
+}
+#intro {
+    text-align: center;
+}
+#habilities{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+table{
+    text-align: center;
+}
+
+.tabla-contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh; 
+}
+.lista-contenedor {
+    text-align: center;
+}
+
+.lista-contenedor ul {
+    display: inline-block;
+    text-align: left;
+}
+#redes{
+    text-align: center;
+}
+#foto img{
+    border: 3px solid black;
+    width: 200px;
+    height: 250px;
+    border-style:double
+   
+}
+#foto{
+   
+    text-align: center;
+}
